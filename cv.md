@@ -10,3 +10,9 @@
 
 I am beginner developer, looking for job opportunities. I am good team player, motivated to learn new things and collaborate with other people to create awesome projects together.
 My main goal is to become proficient in software development and help other people to get good at it.
+
+## Skills:
+
+- HTML5/CSS3
+- JS
+- NodeJS
