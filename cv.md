@@ -38,3 +38,11 @@ I have done a couple of pet projects.
 - [Sketchpad (HTML/CSS/JS)](https://github.com/peperoni4/etch-a-sketch). Sketchpad with features like pixel dimmer, color
   randomizer, and the ability to change the resolution of
   the sketchpad.
+
+## Education
+
+**National Technical University of Ukraine
+“Igor Sikorsky Kyiv Polytechnic Institute”**<br>
+_Faculty of Informatics and Computer Engineering_<br>
+Years: 2019-2023<br>
+Specialization: **Cybernetics**<br>
