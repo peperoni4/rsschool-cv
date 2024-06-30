@@ -26,3 +26,15 @@ function multiply(a, b) {
   a * b;
 }
 ```
+
+## Work Experience
+
+I have done a couple of pet projects.
+
+- [JS Calculator (HTML/CSS/JS)](https://github.com/peperoni4/calculator).
+  A calculator that supports all basic math operations,
+  erasing of characters, and shortcut features that improve
+  overall user experience.
+- [Sketchpad (HTML/CSS/JS)](https://github.com/peperoni4/etch-a-sketch). Sketchpad with features like pixel dimmer, color
+  randomizer, and the ability to change the resolution of
+  the sketchpad.
