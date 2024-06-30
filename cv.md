@@ -46,3 +46,9 @@ I have done a couple of pet projects.
 _Faculty of Informatics and Computer Engineering_<br>
 Years: 2019-2023<br>
 Specialization: **Cybernetics**<br>
+
+## Languages
+
+- English (Intermidiate/Upper-Intermidiate)
+- Ukrainian (Native)
+- Russion (Native)
